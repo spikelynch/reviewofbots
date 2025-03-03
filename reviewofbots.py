@@ -1,7 +1,9 @@
 #!/usr/bin/env python3.5
 
-import random, sys, os
-from botclient import Bot
+import random
+import sys
+import os
+from botclient.botclient import Bot
 
 
 
